@@ -4,9 +4,9 @@ This will use python to retrive hot posts from reddit and make them the desktop 
 
 # Requirments
 
-[praw](https://praw.readthedocs.org/en/stable/)
-[prawoauth2](https://pypi.python.org/pypi/prawoauth2/0.2.1)
-[simplejson](https://pypi.python.org/pypi/simplejson/)
+* [praw](https://praw.readthedocs.org/en/stable/)
+* [prawoauth2](https://pypi.python.org/pypi/prawoauth2/0.2.1)
+* [simplejson](https://pypi.python.org/pypi/simplejson/)
 
 # Operation Instructions
 
